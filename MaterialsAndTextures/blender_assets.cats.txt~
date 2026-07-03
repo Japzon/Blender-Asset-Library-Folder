@@ -6,4 +6,9 @@
 
 VERSION 1
 
-1323461b-7272-422e-801b-64da7770675b:Fabric:Fabric
+b26a4a0a-2057-4253-b66a-9aba417e7967:ConcreteAndMasonry:ConcreteAndMasonry
+db85fa8a-965d-4071-ab56-2a487b52086d:Ground:Ground
+ce33b49e-04d4-4885-954f-d0e1f6cd5c27:Plastic:Plastic
+6a8ee5f5-18b4-461d-b4eb-7c589c9b55af:RoofsAndShingles:RoofsAndShingles
+1323461b-7272-422e-801b-64da7770675b:TextilesAndFabric:TextilesAndFabric
+fd8b717a-a303-4ec8-ace5-bdbcf35410c4:Wood:Wood
