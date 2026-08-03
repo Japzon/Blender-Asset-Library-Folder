@@ -8,7 +8,9 @@ VERSION 1
 
 64dc2e9a-51b7-4521-8c7a-79bd91dc9e12:BaseColors:BaseColors
 b26a4a0a-2057-4253-b66a-9aba417e7967:ConcreteAndMasonry:ConcreteAndMasonry
+dcd65123-1576-484c-ac61-034b8104620c:Crystals:Crystals
 764c95ca-2ff3-4a96-a6b4-cb823f92c76a:Fiber:Fiber
+de4ade46-ced4-487c-b2a0-1f50760673e7:Glass:Glass
 db85fa8a-965d-4071-ab56-2a487b52086d:Ground:Ground
 a0a80619-60a6-4a55-8ec3-e2a97181d4f8:Metals:Metals
 ce33b49e-04d4-4885-954f-d0e1f6cd5c27:Plastic:Plastic
